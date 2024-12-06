@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "userLevel": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Jane Instructor",
+      "email": "instructor@example.com",
+      "password": "instructor123",
+      "userLevel": "instructor"
+    },
+    {
+      "id": "3",
+      "name": "Bob Student",
+      "email": "student@example.com",
+      "password": "student123",
+      "userLevel": "student"
+    }
+  ]
+}
